@@ -11,3 +11,5 @@ The provided _PCIO_ file automatically generates a virtual room specifically org
 The _Start over_ button at the top left recalls all cards and shuffles the stacks.
 
 The _Deal_ button automatically distributes face cards to sitting players.
+
+![screenshot.png](https://github.com/elabrosse/the-ground-itself.pcio/blob/main/screenshot.png?raw=true)
