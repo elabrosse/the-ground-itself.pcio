@@ -1,6 +1,6 @@
 # The Ground Itself - PlayingCards.io Instructions
 
-The provided [`the-ground-itself.pcio`](../blob/master/the-ground-itself.pcio?raw=true) file generates a virtual room in playingcards.io that is organized for the tabletop game **The Ground Itself**.
+The provided [`the-ground-itself.pcio`](/the-ground-itself.pcio?raw=true) file generates a virtual room in playingcards.io that is organized for the tabletop game **The Ground Itself**.
 
 https://everest-pipkin.com/#games/ground.html
 > The Ground Itself is a one-session storytelling game for 2-5 players, played with household materials (a coin, a six-sided die, and a deck of cards). 
@@ -11,7 +11,7 @@ https://playingcards.io
 ![screenshot.png](/screenshot.png?raw=true)
 
 ## Getting started
-1. Download [`the-ground-itself.pcio`](../blob/master/the-ground-itself.pcio?raw=true) file to your filesystem
+1. Download [`the-ground-itself.pcio`](/the-ground-itself.pcio?raw=true) file to your filesystem
 2. Navigate to the room import page at https://playingcards.io/import
 3. Import the pcio file into playingcards.io
 4. Create the room and share its URL with your friends to get started
