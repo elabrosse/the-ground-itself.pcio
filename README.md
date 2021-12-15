@@ -1,6 +1,6 @@
 # The Ground Itself - PlayingCards.io Instructions
 
-The provided ![`the-ground-itself.pcio`](/the-ground-itself.pcio?raw=true) file generates a virtual room in playingcards.io that is organized for the **The Ground Itself**.
+The provided ![`the-ground-itself.pcio`](/the-ground-itself.pcio?raw=true) file generates a virtual room in playingcards.io that is organized for the tabletop game **The Ground Itself**.
 
 https://everest-pipkin.com/#games/ground.html
 > The Ground Itself is a one-session storytelling game for 2-5 players, played with household materials (a coin, a six-sided die, and a deck of cards). 
