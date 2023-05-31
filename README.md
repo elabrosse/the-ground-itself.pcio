@@ -2,7 +2,7 @@
 
 The provided [`the-ground-itself.pcio`](/the-ground-itself.pcio?raw=true) file generates a virtual _playingcards.io_ room that is organized for the tabletop game **The Ground Itself**. The web app is compatible with desktop, tablet, and mobile browsers, and possibly anywhere else with a browser and point-and-click controls.
 
-> The Ground Itself is a one-session storytelling game for 2-5 players, played with household materials (a coin, a six-sided die, and a deck of cards). [https://everest-pipkin.com/#games/ground.html](https://everestpipkin.itch.io/the-ground-itself)
+> The Ground Itself is a one-session storytelling game for 2-5 players, played with household materials (a coin, a six-sided die, and a deck of cards). [[https://everest-pipkin.com/#games/ground.html](https://everestpipkin.itch.io/the-ground-itself)](https://everestpipkin.itch.io/the-ground-itself)
 
 > PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed. [https://playingcards.io](https://playingcards.io)
 
